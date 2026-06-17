@@ -8,7 +8,8 @@ images/
 ├── exterior/                 # Väline kujundus (peeglid, kalasoomused)
 │   ├── scales-closeup.jpg     – pärlmutterläikega soomuste lähivõte
 │   ├── roof-peak.jpg          – teravatipuline katusenurk
-│   └── full-structure.jpg     – klaaspaviljon, soomuseline serv
+│   ├── full-structure.jpg     – klaaspaviljon, soomuseline serv
+│   └── mirror-mosaic.jpg      – peeglimosaiigi detail
 └── interior/                 # Sisemus (veealune maailm)
     ├── walls/                 # Seinad – walls-1.jpg … walls-7.jpg
     ├── fish/                  # Kala kujutis – fish-1.jpg … fish-5.jpg
